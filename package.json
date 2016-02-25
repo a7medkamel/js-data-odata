@@ -1,0 +1,19 @@
+{
+  "name": "js-data-odata",
+  "version": "0.1.0",
+  "description": "OData adapter for js-data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingAds/js-data-odata.git"
+  },
+  "author": "a7medkamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BingAds/js-data-odata/issues"
+  },
+  "homepage": "https://github.com/BingAds/js-data-odata#readme"
+}
